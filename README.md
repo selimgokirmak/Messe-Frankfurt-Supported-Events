@@ -1,3 +1,10 @@
+# [Messe Frankfurt Exhibitor List Scraper](https://apify.com/skython/messefrankfurt-exhibitor-scraper) 🎯
+
+**Messe Frankfurt Exhibitor List Scraper** enables easy extraction of detailed exhibitor data for B2B lead generation and event analysis.
+
+Scrape comprehensive exhibitor data from **Messe Frankfurt trade fair directories** with this powerful scraper. Easily collect detailed company profiles including contact information, website links, social media profiles, product groups, brands, and more. Ideal for **B2B lead generation, market research, event networking, and competitive analysis**. Supports multiple Messe Frankfurt exhibitions with a consistent HTML structure.
+
+
 ## 🌐 Supported Messe Frankfurt Events (Exhibitor Lists)
 **Note:** The following list includes only the Messe Frankfurt exhibitor directory URLs that have been tested so far. Other Messe Frankfurt or different events with the same website structure may also be supported.
 

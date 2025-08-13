@@ -1,4 +1,4 @@
-# [Messe Frankfurt Exhibitor List Scraper](https://apify.com/skython/messefrankfurt-exhibitor-scraper)
+# 🤖 [Messe Frankfurt Exhibitor List Scraper](https://apify.com/skython/messefrankfurt-exhibitor-scraper)
 
 **Messe Frankfurt Exhibitor List Scraper** enables easy extraction of detailed exhibitor data for B2B lead generation and event analysis.
 

@@ -13,6 +13,8 @@ This scraper is designed to extract data from exhibitor directories with the sam
 
 ✅ There should be an `Exhibitors & Products` or `Exhibitor List` or a similar option under one of the menus (like in the image).
 
+✅ Exhibitor listing page format should be the same as the sample websites below.
+
 **If you are unsure whether your target event is supported,** you can run a test with the URL — if no results are returned, the website is not compatible.
 
 <img src="exhibitor-list.png" alt="exhibitor search" width="100%" style="border: 2px solid #000; border-radius: 8px;"/>
@@ -71,8 +73,6 @@ This scraper is designed to extract data from exhibitor directories with the sam
 
 - [Automechanika Ho Chi Minh City 2025 Exhibitor List](https://automechanika-hcmc.hk.messefrankfurt.com/hochiminhcity/en/exhibitor-search.html)
 
-- [Parken 2025 Exhibitor List](https://parken.mesago.com/wiesbaden/en/exhibitor-search.html)
-
 - [Beautyworld Japan Nagoya 2025 Exhibitor List](https://beautyworld-japan-nagoya.jp.messefrankfurt.com/nagoya/en/exhibitor-search.html)
 
 - [Child Edu & Care Japan West 2024 Exhibitor List](https://hoikuhaku-west.jp.messefrankfurt.com/osaka/en/exhibitor-search.html)
@@ -122,3 +122,7 @@ This scraper is designed to extract data from exhibitor directories with the sam
 - [Intersec Saudi Arabia 2025 Exhibitor List](https://intersec-ksa.ae.messefrankfurt.com/ksa/en/exhibitor-search.html)
 
 - [EMV 2025 Exhibitor List](https://emv.mesago.com/koeln/en/exhibitor-search.html)
+
+- [SPS 2025 Exhibitor List](https://sps.mesago.com/nuernberg/en/exhibitor-search.html)
+
+- [Formnext 2025 Exhibitor List](https://formnext.mesago.com/frankfurt/en/exhibitor-search.html)

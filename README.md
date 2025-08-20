@@ -132,3 +132,11 @@ This scraper is designed to extract data from exhibitor directories with the sam
 - [SPS 2025 Exhibitor List](https://sps.mesago.com/nuernberg/en/exhibitor-search.html)
 
 - [Formnext 2025 Exhibitor List](https://formnext.mesago.com/frankfurt/en/exhibitor-search.html)
+
+- [Tecno Fidta 2024 Exhibitor List](https://tecnofidta.ar.messefrankfurt.com/buenos-aires/en/exhibitor-search.html)
+
+- [Texcare France 2025 Exhibitor List](https://texcare-france.fr.messefrankfurt.com/paris/en/exhibitor-search.html)
+
+- [Texcare International 2024 Exhibitor List](https://texcare.messefrankfurt.com/frankfurt/en/exhibitor-search.html)
+
+- [ExpoFerretera 2025 Exhibitor List](https://expoferretera.ar.messefrankfurt.com/buenosaires/en/exhibitor-search.html)

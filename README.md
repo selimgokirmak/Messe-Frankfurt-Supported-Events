@@ -15,13 +15,13 @@ This scraper is designed to extract data from exhibitor directories with the sam
 
 ### ❓ How to identify a supported website:
 
-✅ The page URL usually ends with `/exhibitor-search.html` or a similar format.
+✅ Exhibitor listing page URL usually ends with `/exhibitor-search.html` or a similar format.
 
-✅ There should be an `Exhibitors & Products` or `Exhibitor List` or a similar option under one of the menus (like in the image).
+✅ There could be an `Exhibitors & Products` or `Exhibitor List` or a similar option under one of the menus (like in the image).
 
 ✅ Exhibitor listing page format should be the same as the sample websites below.
 
-💡 **If you are unsure whether your target event is supported,** you can run a test with the URL — if no results are returned, the website is not compatible.
+💡 **If you are unsure whether your target event website is supported,** you can run a test with the exhibitor listing page URL — if no results are returned, the website is not compatible.
 
 <img src="exhibitor-list.png" alt="exhibitor search" width="100%" style="border: 2px solid #000; border-radius: 8px;"/>
 

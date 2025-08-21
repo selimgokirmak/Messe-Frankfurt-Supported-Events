@@ -140,3 +140,11 @@ This scraper is designed to extract data from exhibitor directories with the sam
 - [Texcare International 2024 Exhibitor List](https://texcare.messefrankfurt.com/frankfurt/en/exhibitor-search.html)
 
 - [ExpoFerretera 2025 Exhibitor List](https://expoferretera.ar.messefrankfurt.com/buenosaires/en/exhibitor-search.html)
+
+- [Traffic Infratech Expo 2025 Exhibitor List](https://trafficinfratechexpo.in.messefrankfurt.com/newdelhi/en/exhibitor-search.html)
+
+- [Media Expo New Delhi 2025 Exhibitor List](https://media-expo-newdelhi.in.messefrankfurt.com/newdelhi/en/exhibitor-search.html)
+
+- [BIEL Light + Building Buenos Aires 2025 Exhibitor List](https://biel-light-building.ar.messefrankfurt.com/buenosaires/en/exhibitor-search.html)
+
+- [Techtextil India 2025 Exhibitor List](https://techtextil-india.in.messefrankfurt.com/mumbai/en/exhibitor-search.html)

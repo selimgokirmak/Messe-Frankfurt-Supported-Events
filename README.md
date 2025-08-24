@@ -1,6 +1,6 @@
 ## 🤖 [Messe Frankfurt Exhibitor List Scraper](https://apify.com/skython/messe-frankfurt-exhibitor-list-scraper)
 
-Simple web scraper for extracting exhibitor data from **Messe Frankfurt** trade show exhibitor lists. 
+Simple web scraper for extracting exhibitor data from trade show exhibitor lists organized by **Messe Frankfurt**. 
 
 Easily scrape company profiles including **company details, websites, social media links, contact persons, product groups, brands, and more**. 
 
@@ -148,3 +148,5 @@ This scraper is designed to extract data from exhibitor directories with the sam
 - [BIEL Light + Building Buenos Aires 2025 Exhibitor List](https://biel-light-building.ar.messefrankfurt.com/buenosaires/en/exhibitor-search.html)
 
 - [Techtextil India 2025 Exhibitor List](https://techtextil-india.in.messefrankfurt.com/mumbai/en/exhibitor-search.html)
+
+- [Emitex, Simatex and Confemaq 2024 Exhibitor List](https://industriatextilexpo.ar.messefrankfurt.com/buenosaires/en/exhibitor-search.html)

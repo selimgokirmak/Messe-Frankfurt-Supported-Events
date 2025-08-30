@@ -15,6 +15,10 @@ Supports multiple Messe Frankfurt trade fair websites with a consistent HTML str
 
 - [Map Your Show Exhibitor List Scraper](https://apify.com/skython/map-your-show-exhibitor-list-scraper)
 
+- [Messe Duesseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
+
+- [Xporience Exhibitor List Scraper](https://apify.com/skython/xporience-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
@@ -23,6 +27,8 @@ This scraper is designed to extract data from exhibitor directories with the sam
 ### ❓ How to identify a supported website:
 
 ✅ Exhibitor listing page URL usually ends with `/exhibitor-search.html` or a similar format.
+
+- An example event website URL: https://ambiente.messefrankfurt.com/frankfurt/en/exhibitor-search.html
 
 ✅ There could be an `Exhibitors & Products` or `Exhibitor List` or a similar option under one of the menus (like in the image).
 

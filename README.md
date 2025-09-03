@@ -9,6 +9,11 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 Supports multiple Messe Frankfurt trade fair websites with a consistent HTML structure.
 
 
+## 🔎 Testing Exhibitor List URLs for FREE
+
+Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/actors/PQ2HmPYNoLLjOR3Ew/input) actor to test your exhibitor list URLs **for FREE** and see which scraper can process them.
+
+
 ## 👇 Check My Other Exhibitor List Scrapers
 
 - [Koelnmesse Exhibitor List Scraper](https://apify.com/skython/koelnmesse-exhibitor-list-scraper)

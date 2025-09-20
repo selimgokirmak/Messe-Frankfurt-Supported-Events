@@ -24,6 +24,10 @@ Use [**Exhibitor List Scrapers Router & URL Tester**](https://console.apify.com/
 
 - [Xporience Exhibitor List Scraper](https://apify.com/skython/xporience-exhibitor-list-scraper)
 
+- [Reed Expo Exhibitor List Scraper](https://apify.com/skython/reed-expo-exhibitor-list-scraper)
+
+- [Messe Muenchen Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
@@ -165,4 +169,6 @@ This scraper is designed to extract data from exhibitor directories with the sam
 
 - [Techtextil India 2025 Exhibitor List](https://techtextil-india.in.messefrankfurt.com/mumbai/en/exhibitor-search.html)
 
-- [Emitex, Simatex and Confemaq 2024 Exhibitor List](https://industriatextilexpo.ar.messefrankfurt.com/buenosaires/en/exhibitor-search.html)
+- [Emitex, Simatex and Confemaq 2024 Exhibitor List](https://industriatextilexpo.ar.messefrankfurt.com/buenosaires/en/exhibitor-search.html),
+
+- [Cinte Techtextil China 2026 Exhibitor List](https://cinte-techtextil-china.hk.messefrankfurt.com/shanghai/en/exhibitor-search/list-highlight1.html)

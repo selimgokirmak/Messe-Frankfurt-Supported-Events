@@ -24,17 +24,17 @@ Supports multiple **Messe Frankfurt** trade fair websites with a consistent HTML
 
 - [Map Your Show Exhibitor List Scraper](https://apify.com/skython/map-your-show-exhibitor-list-scraper)
 
-- [Messe Duesseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
+- [Messe Düsseldorf Exhibitor List Scraper](https://apify.com/skython/messe-duesseldorf-exhibitor-list-scraper)
 
 - [Xporience Exhibitor List Scraper](https://apify.com/skython/xporience-exhibitor-list-scraper)
 
 - [Reed Expo Exhibitor List Scraper](https://apify.com/skython/reed-expo-exhibitor-list-scraper)
 
-- [Messe Muenchen Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
+- [Messe München Exhibitor List Scraper](https://apify.com/skython/messe-muenchen-exhibitor-list-scraper)
 
 - [Xporience Exhibitor List Scraper V2](https://apify.com/skython/xporience-exhibitor-list-scraper-2)
 
-- [Nuernberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
+- [Nürnberg Messe Exhibitor List Scraper](https://apify.com/skython/nuernberg-messe-exhibitor-list-scraper)
 
 - [GSMA MWC Exhibitor List Scraper](https://apify.com/skython/gsma-mwc-exhibitor-list-scraper)
 

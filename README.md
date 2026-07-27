@@ -268,8 +268,6 @@ Ideal for **B2B lead generation, market research, event networking, and competit
     </tbody>
 </table>
 
-<br>
-
 ---
 
 ## Example Output
@@ -325,8 +323,6 @@ Ideal for **B2B lead generation, market research, event networking, and competit
   ]
 }
 ```
-
-<br>
 
 ---
 
@@ -391,3 +387,5 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 - [ANDMORE Exhibitor List Scraper](https://apify.com/skython/andmore-exhibitor-list-scraper)
 
 - [Comexposium Exhibitor List Scraper V2](https://apify.com/skython/comexposium-exhibitor-list-scraper-2)
+
+- [Informa Markets Exhibitor List Scraper V3](https://apify.com/skython/informa-markets-exhibitor-list-scraper-3)
